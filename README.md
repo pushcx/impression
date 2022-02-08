@@ -19,7 +19,7 @@
 ## What is Impression
 
 > Impression is still in a very early stage of development. Things might not
-> correctly, or not at all.
+> work correctly, or not at all.
 
 Impression is a modern web framework for Ruby. Unlike other web framework,
 Impression does not impose any rigid structure or paradigm, but instead provides
